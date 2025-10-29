@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Vijaykar</h1>
-<h3 align="center">A passionate fronA passionate Cloud & DevOps engineer from Indiatend developer from India</h3>
+<h3 align="center">A passionate Cloud & DevOps engineer from Indiatend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advijaykar&label=Profile%20views&color=0e75b6&style=flat" alt="advijaykar" /> </p>
 
