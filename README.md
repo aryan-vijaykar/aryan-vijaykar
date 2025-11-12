@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&text=Aryan%20Vijaykar&fontColor=3ba7ff&fontSize=45&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&text=Aryan%20Vijaykar&fontColor=3ba7ff&fontSize=45&fontAlignY=15" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Google+Student+Ambassador;GDG+Cloud+Member;Open+Source+Contributor;AI+%26+Cloud+Explorer;Building+Smart+and+Scalable+Solutions)](https://git.io/typing-svg)
