@@ -108,6 +108,3 @@ Collection of automation scripts for everyday tasks — from system cleanup to A
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d1117" />
-</p>
