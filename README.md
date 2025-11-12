@@ -36,15 +36,7 @@
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,linux,aws,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
 </p>
 
 ---
