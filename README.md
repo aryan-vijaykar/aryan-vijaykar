@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Google+Student+Ambassador;GDG+Cloud+Member;Open+Source+Contributor;AI+%26+Cloud+Explorer;Building+Smart+and+Scalable+Solutions)](https://git.io/typing-svg)
 
-<h3 align="center">Google Student Ambassador | AI & Cloud Enthusiast | Aspiring Full Stack Developer</h3>
+<h3 align="center">AWS Cloud Club Captain | AI & Cloud Enthusiast | Google Student Ambassador</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=advijaykar&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
