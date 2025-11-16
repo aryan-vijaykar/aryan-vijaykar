@@ -119,3 +119,4 @@
 
 - 💬 Open to collaborations around AI in education, cloud automation, and data storytelling
 - 📅 Reach out for speaking engagements, hackathons, or co-building community programs
+- 🚀 Always excited to pair-program on impactful, people-first products
