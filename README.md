@@ -76,11 +76,6 @@ Collection of automation scripts for everyday tasks — from system cleanup to A
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
 </picture>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advijaykar&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
 ---
 
 ### 🔥 Contribution Graph  
