@@ -1,4 +1,4 @@
-0<p
+<p
   align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0d1117&text=Aryan%20Vijaykar&fontColor=3ba7ff&fontSize=44&fontAlignY=50" />
 </p>
