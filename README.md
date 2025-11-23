@@ -96,4 +96,5 @@ Collection of automation scripts for everyday tasks — from system cleanup to A
 </p>
 
 ---
-
+ <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advijaykar&theme=tokyonight" alt="profile details"/>
