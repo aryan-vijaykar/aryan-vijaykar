@@ -8,7 +8,7 @@
 <h3 align="center">AWS Cloud Club Captain | AI & Cloud Enthusiast | Google Student Ambassador</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=advijaykar&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=aryan-vijaykar&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ Collection of automation scripts for everyday tasks — from system cleanup to A
 ---
 
 ### 🔥 Contribution Graph  
-![Aryan’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=advijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
+![Aryan’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-vijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
 
 ---
 
@@ -90,7 +90,7 @@ Collection of automation scripts for everyday tasks — from system cleanup to A
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/advijaykar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/aryan-vijaykar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:advijaykar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/aryan-vijaykar"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
