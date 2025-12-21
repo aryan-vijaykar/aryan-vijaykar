@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0d1117&text=Aryan%20Vijaykar&fontColor=3ba7ff&fontSize=44&fontAlignY=43" alt="Aryan Vijaykar banner" />
+
 </p>
 
 <p align="center">
@@ -9,22 +8,13 @@
 <h3 align="center">AWS Cloud Club Captain · AI & Cloud Enthusiast · Google Student Ambassador</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=advijaykar&label=PROFILE%20VIEWS&color=3ba7ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-1f6feb?style=for-the-badge" alt="Location badge" />
-  <img src="https://img.shields.io/badge/Mission-Build%20Impactful%20Products-3ba55d?style=for-the-badge" alt="Mission badge" />
-</p>
+
 
 ---
 
 ## 🎯 Snapshot
 
-| Focus | Mission | Currently |
-| --- | --- | --- |
-| Cloud-native + Applied AI | Scale ideas into human-centric solutions | Prototyping voice-first automation, deploying smart GIS dashboards |
 
-> "Curiosity-led research, community-driven impact, and shipping solutions that matter."
-
----
 
 ## 🚀 About Me
 
@@ -95,15 +85,7 @@
 
 ## 📊 Pulse
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advijaykar&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true" alt="Contribution graph" />
-</p>
-
----
 
 ## 🌐 Connect
 
@@ -115,8 +97,3 @@
 
 ---
 
-### 🤝 Let’s Collaborate
-
-- 💬 Open to collaborations around AI in education, cloud automation, and data storytelling
-- 📅 Reach out for speaking engagements, hackathons, or co-building community programs
-- 🚀 Always excited to pair-program on impactful, people-first products
