@@ -1,99 +1,99 @@
-<p
-  align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0d1117&text=Aryan%20Vijaykar&fontColor=3ba7ff&fontSize=44&fontAlignY=50" />
+
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Google+Student+Ambassador;GDG+Cloud+Member;Open+Source+Contributor;AI+%26+Cloud+Explorer;Building+Smart+and+Scalable+Solutions)](https://git.io/typing-svg)
-
-<h3 align="center">AWS Cloud Club Captain | AI & Cloud Enthusiast | Google Student Ambassador</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan-vijaykar&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3600&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Google+Student+Ambassador;AWS+Cloud+Club+Captain;GDG+Cloud+Member;Open+Source+Contributor;AI+%26+Cloud+Explorer" alt="Animated headline" />
 </p>
 
----
+<h3 align="center">AWS Cloud Club Captain · AI & Cloud Enthusiast · Google Student Ambassador</h3>
 
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
----
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
-🚀  About Me   
-
-> Passionate about leveraging **AI, Cloud, and IoT** to create real-world, impactful solutions.  
-> I’m constantly exploring new technologies and love building projects that merge creativity with logic.
-
-- 🎓 **B.Tech (IT)** at *Ratan Tata Maharashtra State Skills University*  
-- 🌱 Currently learning: **DevOps, WebGIS, and Full Stack Development**  
-- 💬 Ask me about: **Java, Cloud, or Python**  
-- ⚡ Fun fact: I debug for fun and learn from every bug 🐞  
-- 🏆 Best Project Award – *Avishkar 2025* | *Excellence in Club Leadership*
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-## 🧰 Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
-</p>
+
 
 ---
 
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
+## 🎯 Snapshot
 
-## 💡 Featured Projects  
 
-### 🧠 [Automatic Voice-Operated Library System](https://github.com/aryan-vijaykar/Library-AI)
-Voice-controlled library access & visitor tracking using AI/ML, IoT sensors, and speech recognition.
 
-### 🌍 [Drishti-GIS: AI-Powered FRA Monitoring System](https://github.com/aryan-vijaykar/Drishti-GIS)
-AI-driven WebGIS for monitoring land rights, IoT-based data integration, and real-time analytics dashboards.
+## 🚀 About Me
 
-### 🐍 [Python Automation Scripts](https://github.com/aryan-vijaykar/Python-Automations)
-Collection of automation scripts for everyday tasks — from system cleanup to API integration.
+- 🎓 **B.Tech (IT)** @ *Ratan Tata Maharashtra State Skills University*
+- 🔭 Building end-to-end products that blend **AI, IoT, and Cloud** for smarter environments
+- 🧠 Obsessed with solving complex workflows using automation, data storytelling, and scalable architectures
+- 🌱 Currently deep-diving into **DevOps pipelines, WebGIS ecosystems, and full-stack experimentation**
+- ☕ Community-first learner: leading cohorts, mentoring peers, and co-hosting workshops across campuses
+- ⚡ Fun fact: I treat bugs as plot twists—every fix becomes a story to teach the next cohort 🐞
 
----
+### Currently Exploring
 
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-## 🏆 Achievements  
-- 🥇 Best Project Award – **Avishkar’25**  
-- 🏅 Excellence Award – **Renewable Energy Club Leadership**  
-- ☁️ **Google Cloud Compute Skill Badge (2025)**  
-- 🎓 **OCI AI Foundations Associate (Oracle, 2025)**  
-- 💻 **Udemy Java OOP Certification (2025)**  
+- 🔧 Automating ops for cloud-backed IoT deployments
+- 🛰️ Turning satellite and sensor data into actionable WebGIS insights
+- 🧩 Experimenting with GenAI agents to supercharge developer productivity
 
 ---
 
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
+## 🧠 Highlights
+
+- 🏆 **Avishkar 2025 Best Project** for an AI-enabled library experience
+- 🏅 Led renewable energy initiatives, earning the **Excellence in Club Leadership Award**
+- ☁️ **Google Cloud Compute Skill Badge (2025)** and **Oracle OCI AI Foundations Associate**
+- 💡 Empowering 2000+ learners through talks, live demos, and hackspace collaborations
 
 ---
 
-### 🔥 Contribution Graph  
-![Aryan’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-vijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
+## 🧰 Tech Arsenal
 
----
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-vijaykar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:advijaykar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/aryan-vijaykar"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,dart,php,flutter,html,css,js,tailwind,vue,pinia,laravel,gradle,bash,md,mysql,postgres,firebase,heroku,git,github,linux,androidstudio,vscode,idea,ai,ps&perline=15" alt="Tech stack icons" />
 </p>
 
 ---
- 
+
+## 💡 Flagship Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h4>🧠 <a href="https://github.com/aryan-vijaykar/Library-AI">Automatic Voice-Operated Library System</a></h4>
+      <p>Voice-first library access with AI/ML, IoT visitor tracking, and conversational experiences.</p>
+      <p><strong>Impact:</strong> 60% faster entry throughput · Inclusive, hands-free access.</p>
+    </td>
+    <td width="33%">
+      <h4>🌍 <a href="https://github.com/aryan-vijaykar/Drishti-GIS">Drishti-GIS</a></h4>
+      <p>WebGIS platform combining AI analytics with on-ground IoT data to monitor land rights compliance.</p>
+      <p><strong>Impact:</strong> Real-time dashboards · Automated FRA compliance monitoring.</p>
+    </td>
+    <td width="33%">
+      <h4>🐍 <a href="https://github.com/aryan-vijaykar/Python-Automations">Python Automation Scripts</a></h4>
+      <p>Swiss-army toolkit of automation workflows—from data cleanup and alerts to API glue services.</p>
+      <p><strong>Impact:</strong> Saves hours/week on repetitive ops · Plug-and-play recipes.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Leadership & Recognition
+
+- 🧑‍🏫 Mentored beginner-to-advanced cohorts on cloud fundamentals, DevOps, and GenAI practices
+- 🗣️ Speaker at intra-college tech summits, bridging AI research stories with practical demos
+- 🤝 Collaborating with GDG Cloud to design hands-on labs for student innovators
+- 🪴 Cultivating a builder community through AWS Cloud Club—ideation sprints, project clinics, and peer reviews
+
+---
+
+## 📊 Pulse
+
+
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-vijaykar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:advijaykar@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://github.com/aryan-vijaykar" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
+
+---
+
