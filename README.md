@@ -1,99 +1,28 @@
-<p
-  align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0d1117&text=Aryan%20Vijaykar&fontColor=3ba7ff&fontSize=44&fontAlignY=50" />
-</p>
+<h1>Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwcnk3c2YwN2Nmc2Rqd2NqNnlwOXA5M3JoczQwY3cxdDBhMjllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fmaoegzDeM9bNYzGWQ/giphy.gif" width="60"></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Google+Student+Ambassador;GDG+Cloud+Member;Open+Source+Contributor;AI+%26+Cloud+Explorer;Building+Smart+and+Scalable+Solutions)](https://git.io/typing-svg)
+I am Aryan Vijaykar, an aspiring Cloud Engineer — AWS Certified Cloud Practitioner and Oracle Cloud Infrastructure AI Foundations Associate, building hands-on skills with cloud platforms and leading the AWS builder community on my campus. Most likely, you will find me at a meetup, hackathon, or campus event helping other builders get started with the cloud. I enjoy learning cloud infrastructure, breaking things in a sandbox, and helping developers do the same! 🚀
 
-<h3 align="center">AWS Cloud Club Captain | AI & Cloud Enthusiast | Google Student Ambassador</h3>
+- I am AWS Certified Cloud Practitioner, and Oracle Cloud Infrastructure 2025 AI Foundations Associate certified
+- I am an AWS Student Builder Group Leader at RTMSSU Nagpur, and previously Cloud Club Captain
+- I am organizer of IBM User Group, Cloud Native Nagpur, and OpenSearch User Group Nagpur
+- I am currently pursuing a B.Tech in Information Technology
+- I am currently sharpening my skills in cloud infrastructure and backend fundamentals
+- Outside of Tech, I have interests in badminton, public speaking, and photography
+- Pronouns: He/Him
+- Connect with me:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan-vijaykar&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/-aryan--vijaykar-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/aryan-vijaykar)](https://linkedin.com/in/aryan-vijaykar)
+[![Gmail Badge](https://img.shields.io/badge/-advijaykar@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:advijaykar@gmail.com)](mailto:advijaykar@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-aryan--vijaykar-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/aryan-vijaykar)](https://github.com/aryan-vijaykar)
 
----
+## Community
 
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
+- Organized AWS Student Community Day at IIM Nagpur — a flagship event with 540+ attendees, end-to-end from planning to on-ground execution.
+- Grew the campus Cloud Club to 3,000+ members through hands-on AWS sessions and consistent outreach.
+- Ran the AWS SBCL community track in direct collaboration with the AWS Global team, driving 15,000+ engagement through community programming.
+- Organize meetups, technical sessions, and workshops across three active tech communities in Nagpur: IBM, Cloud Native, and OpenSearch User Groups.
+- Supported hackathons and technical events, helping students build their first cloud-based projects.
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
----
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
-🚀  About Me   
+## Languages and tools
 
-> Passionate about leveraging **AI, Cloud, and IoT** to create real-world, impactful solutions.  
-> I’m constantly exploring new technologies and love building projects that merge creativity with logic.
-
-- 🎓 **B.Tech (IT)** at *Ratan Tata Maharashtra State Skills University*  
-- 🌱 Currently learning: **DevOps, WebGIS, and Full Stack Development**  
-- 💬 Ask me about: **Java, Cloud, or Python**  
-- ⚡ Fun fact: I debug for fun and learn from every bug 🐞  
-- 🏆 Best Project Award – *Avishkar 2025* | *Excellence in Club Leadership*
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-## 🧰 Tech Stack  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
-</p>
-
----
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-## 💡 Featured Projects  
-
-### 🧠 [Automatic Voice-Operated Library System](https://github.com/aryan-vijaykar/Library-AI)
-Voice-controlled library access & visitor tracking using AI/ML, IoT sensors, and speech recognition.
-
-### 🌍 [Drishti-GIS: AI-Powered FRA Monitoring System](https://github.com/aryan-vijaykar/Drishti-GIS)
-AI-driven WebGIS for monitoring land rights, IoT-based data integration, and real-time analytics dashboards.
-
-### 🐍 [Python Automation Scripts](https://github.com/aryan-vijaykar/Python-Automations)
-Collection of automation scripts for everyday tasks — from system cleanup to API integration.
-
----
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-## 🏆 Achievements  
-- 🥇 Best Project Award – **Avishkar’25**  
-- 🏅 Excellence Award – **Renewable Energy Club Leadership**  
-- ☁️ **Google Cloud Compute Skill Badge (2025)**  
-- 🎓 **OCI AI Foundations Associate (Oracle, 2025)**  
-- 💻 **Udemy Java OOP Certification (2025)**  
-
----
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
----
-
-### 🔥 Contribution Graph  
-![Aryan’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-vijaykar&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
-
----
-
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" width="100%" alt="Divider">
-</picture>
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-vijaykar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:advijaykar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/aryan-vijaykar"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
----
- 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/ORACLE_CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"> <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
