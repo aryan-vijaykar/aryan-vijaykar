@@ -2,12 +2,12 @@
 
 I am Aryan Vijaykar, an aspiring Cloud Engineer — AWS Certified Cloud Practitioner and Oracle Cloud Infrastructure AI Foundations Associate, building hands-on skills with cloud platforms and leading the AWS builder community on my campus. Most likely, you will find me at a meetup, hackathon, or campus event helping other builders get started with the cloud. I enjoy learning cloud infrastructure, breaking things in a sandbox, and helping developers do the same! 🚀
 
+- I am organizer of IBM User Group, Cloud Native Nagpur, and OpenSearch User Group Nagpur
 - I am AWS Certified Cloud Practitioner, and Oracle Cloud Infrastructure 2025 AI Foundations Associate certified
 - I am an AWS Student Builder Group Leader at RTMSSU Nagpur, and previously Cloud Club Captain
-- I am organizer of IBM User Group, Cloud Native Nagpur, and OpenSearch User Group Nagpur
 - I am currently pursuing a B.Tech in Information Technology
 - I am currently sharpening my skills in cloud infrastructure and backend fundamentals
-- Outside of Tech, I have interests in badminton, public speaking, and photography
+- Outside of Tech, I have interests in chess, public speaking, and photography
 - Pronouns: He/Him
 - Connect with me:
 
