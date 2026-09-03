@@ -1,6 +1,6 @@
 <h1>Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwcnk3c2YwN2Nmc2Rqd2NqNnlwOXA5M3JoczQwY3cxdDBhMjllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fmaoegzDeM9bNYzGWQ/giphy.gif" width="60"></h2>
 
-I am Aryan Vijaykar, an aspiring Cloud Engineer — AWS Certified Cloud Practitioner and Oracle Cloud Infrastructure AI Foundations Associate, building hands-on skills with cloud platforms and leading the AWS builder community on my campus. Most likely, you will find me at a meetup, hackathon, or campus event helping other builders get started with the cloud. I enjoy learning cloud infrastructure, breaking things in a sandbox, and helping developers do the same! 🚀
+I am Aryan Vijaykar, Doing cool stuff in open source world. Most likely, you will find me at a meetup, hackathon, or campus event helping other builders get started with the cloud. I enjoy learning cloud infrastructure, breaking things in a sandbox, and helping developers do the same! 🚀
 
 - Developer Relations @Single Core Labs 🥑 
 - I am organizer of IBM User Group, Cloud Native Nagpur, and OpenSearch User Group Nagpur
