@@ -25,7 +25,7 @@ I am Aryan Vijaykar, an aspiring Cloud Engineer — AWS Certified Cloud Practiti
 ## Community
 
 - Staffed the Valkey team booth at Open Source Summit India, engaging attendees on the project.
-- Staffed the AWS team booth at AWS Summit Bengaluru.
+- Staffed the AWS Developer Lounge at AWS Summit Bengaluru.
 - Staffed the AWS Experience Loft at Techkriti, IIT Kanpur.
 - Organized AWS Student Community Day at IIM Nagpur — a flagship event with 540+ attendees, end-to-end from planning to on-ground execution.
 - Grew the campus Cloud Club to 3,000+ members through hands-on AWS sessions and consistent outreach.
