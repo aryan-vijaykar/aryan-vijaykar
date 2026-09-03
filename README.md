@@ -8,7 +8,7 @@ I am Aryan Vijaykar, an aspiring Cloud Engineer — AWS Certified Cloud Practiti
 - I actively contribute to open source through Hacktoberfest and GirlScript Summer of Code
 - I am currently pursuing a B.Tech in Information Technology
 - I am currently sharpening my skills in cloud infrastructure and backend fundamentals
-- Outside of Tech, I have interests in badminton, public speaking, and photography
+- Outside of Tech, I have interests in chess, public speaking, and photography
 - Pronouns: He/Him
 - Connect with me:
 
@@ -24,6 +24,9 @@ I am Aryan Vijaykar, an aspiring Cloud Engineer — AWS Certified Cloud Practiti
 
 ## Community
 
+- Staffed the Valkey team booth at Open Source Summit India, engaging attendees on the project.
+- Staffed the AWS team booth at AWS Summit Bengaluru.
+- Staffed the AWS Experience Loft at Techkriti, IIT Kanpur.
 - Organized AWS Student Community Day at IIM Nagpur — a flagship event with 540+ attendees, end-to-end from planning to on-ground execution.
 - Grew the campus Cloud Club to 3,000+ members through hands-on AWS sessions and consistent outreach.
 - Ran the AWS SBCL community track in direct collaboration with the AWS Global team, driving 15,000+ engagement through community programming.
