@@ -5,15 +5,22 @@ I am Aryan Vijaykar, an aspiring Cloud Engineer — AWS Certified Cloud Practiti
 - I am organizer of IBM User Group, Cloud Native Nagpur, and OpenSearch User Group Nagpur
 - I am AWS Certified Cloud Practitioner, and Oracle Cloud Infrastructure 2025 AI Foundations Associate certified
 - I am an AWS Student Builder Group Leader at RTMSSU Nagpur, and previously Cloud Club Captain
+- I actively contribute to open source through Hacktoberfest and GirlScript Summer of Code
 - I am currently pursuing a B.Tech in Information Technology
 - I am currently sharpening my skills in cloud infrastructure and backend fundamentals
-- Outside of Tech, I have interests in chess, public speaking, and photography
+- Outside of Tech, I have interests in badminton, public speaking, and photography
 - Pronouns: He/Him
 - Connect with me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-aryan--vijaykar-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/aryan-vijaykar)](https://linkedin.com/in/aryan-vijaykar)
 [![Gmail Badge](https://img.shields.io/badge/-advijaykar@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:advijaykar@gmail.com)](mailto:advijaykar@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-aryan--vijaykar-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/aryan-vijaykar)](https://github.com/aryan-vijaykar)
+
+## Open Source
+
+- Merged 25+ Pull Requests across 8 repositories through Hacktoberfest and GirlScript Summer of Code.
+- Completed LFC102: Inclusive Open Source Community Orientation, covering community norms and contribution best practices.
+- Advocate for open source within the AWS, IBM, Cloud Native, and OpenSearch communities I help organize.
 
 ## Community
 
