@@ -30,7 +30,7 @@ I am Aryan Vijaykar, Doing cool stuff in open source world. Most likely, you wil
 - Staffed the AWS Experience Loft at Techkriti, IIT Kanpur.
 - Organized AWS Student Community Day at IIM Nagpur — a flagship event with 540+ attendees, end-to-end from planning to on-ground execution.
 - Grew the campus Cloud Club to 3,000+ members through hands-on AWS sessions and consistent outreach.
-- Ran the AWS SBCL community track in direct collaboration with the AWS Global team, driving 15,000+ engagement through community programming.
+- Ran the AWS SBCL community track in direct collaboration with the AWS Global team, driving 25,000+ engagement through community programming.
 - Organize meetups, technical sessions, and workshops across three active tech communities in Nagpur: IBM, Cloud Native, and OpenSearch User Groups.
 - Supported hackathons and technical events, helping students build their first cloud-based projects.
 
